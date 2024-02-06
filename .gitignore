@@ -3,6 +3,7 @@ build/
 doctest/
 .vs/
 .vscode/
+.xmake/
 out/
 
 # Prerequisites
